@@ -4,8 +4,8 @@ Micro-service de vision par ordinateur développé avec **FastAPI** permettant d
 
 L'API reçoit une image d'un produit et détermine automatiquement si celui-ci est :
 
-- ✅ Conforme
-- ❌ Défaut
+-  Conforme
+-  Défaut
 
 La classification est réalisée grâce à un modèle **OpenCLIP** du Hub Hugging Face en mode **Zero-Shot**.
 
